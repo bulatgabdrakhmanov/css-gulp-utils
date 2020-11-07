@@ -1,0 +1,19 @@
+{
+  "name": "css-minify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "minify": "gulp minify"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^4.0.1",
+    "gulp-group-css-media-queries": "^1.2.2",
+    "gulp-sass": "^4.1.0"
+  }
+}
